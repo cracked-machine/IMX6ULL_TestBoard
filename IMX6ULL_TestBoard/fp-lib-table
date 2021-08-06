@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name IMX6ULL_BGA)(type KiCad)(uri /Users/chrisjsutton@uk.ibm.com/Projects/Hardware/KicadLibrary/footprint/BGA/IMX6ULL_BGA.pretty)(options "")(descr ""))
+)

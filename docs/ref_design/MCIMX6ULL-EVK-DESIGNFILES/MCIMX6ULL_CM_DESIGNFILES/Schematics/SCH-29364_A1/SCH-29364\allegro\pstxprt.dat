@@ -1,0 +1,4231 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-25-2018 at 15:43:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SCH-29364_A1';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C101 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229182@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229182@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229182@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229116@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229116@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229116@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229287@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229287@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229287@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C106 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97228932@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97228932@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97228932@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98495959@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98495959@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins98495959@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229265@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229265@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229265@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97228921@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97228921@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97228921@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229165@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229165@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229165@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229276@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229276@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229276@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229342@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229342@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229342@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229309@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229309@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229309@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97228899@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97228899@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97228899@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97228943@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97228943@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97228943@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229331@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229331@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229331@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98859239@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98859239@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins98859239@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229298@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229298@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229298@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98859657@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98859657@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins98859657@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229193@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229193@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229193@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP_NP_0402_CC_DISCRETE_0.55MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97228910@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97228910@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97228910@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C201 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230856@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230856@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230856@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C202 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99433398@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99433398@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99433398@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C203 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99428758@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99428758@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99428758@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C204 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230774@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230774@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230774@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C205 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230242@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230242@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230242@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C206 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230107@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230107@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230107@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C207 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230466@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230466@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230466@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C208 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230152@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230152@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230152@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C209 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230515@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230515@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230515@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C210 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230180@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230180@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230180@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C211 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230824@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230824@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230824@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C212 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230265@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230265@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230265@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C213 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230477@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230477@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230477@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C214 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230734@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230734@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230734@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C215 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230873@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230873@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230873@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C216 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230163@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230163@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230163@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C217 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230220@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230220@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230220@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C218 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230494@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230494@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230494@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C219 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230791@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230791@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230791@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C220 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230141@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230141@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230141@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C221 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230197@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230197@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230197@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C222 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98647499@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98647499@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98647499@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C223 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230845@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230845@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230845@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C224 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98647800@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98647800@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98647800@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C225 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98860060@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98860060@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98860060@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C226 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98946192@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98946192@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98946192@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C227 'CAP_NP_0402_CC_DISCRETE_0.55M_3':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99472740@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99472740@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99472740@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C228 'CAP_NP_0402_CC_DISCRETE_0.55M_3':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99472755@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99472755@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99472755@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C229 'CAP_NP_0402_CC_DISCRETE_0.55M_3':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99472768@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99472768@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99472768@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C230 'CAP_NP_0402_CC_DISCRETE_0.55M_3':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99472780@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99472780@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99472780@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C301 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97232176@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97232176@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97232176@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C303 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98648165@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98648165@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98648165@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C304 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97231710@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97231710@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97231710@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C305 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98648727@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98648727@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98648727@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C306 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98648744@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98648744@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98648744@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C308 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98959234@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98959234@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98959234@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C309 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98650234@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98650234@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98650234@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C310 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98650609@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98650609@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98650609@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C311 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98648778@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98648778@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98648778@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C312 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97231737@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97231737@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97231737@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C313 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98650983@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98650983@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98650983@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C314 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97232327@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97232327@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97232327@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C315 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98652242@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98652242@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98652242@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C316 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97232285@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97232285@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97232285@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C318 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98958664@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98958664@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98958664@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C319 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98994348@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98994348@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98994348@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C321 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98994763@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98994763@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98994763@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C322 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98994932@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98994932@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98994932@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C323 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98994964@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98994964@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98994964@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C401 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97618199@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97618199@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97618199@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C402 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97618600@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97618600@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97618600@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C403 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97618535@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97618535@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97618535@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C404 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98995934@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98995934@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98995934@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C405 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97618469@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97618469@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97618469@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C407 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97233583@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97233583@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97233583@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C408 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98860648@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98860648@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98860648@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C409 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98675620@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98675620@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98675620@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C410 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98675691@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98675691@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98675691@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C411 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97233292@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97233292@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97233292@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C412 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97233517@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97233517@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins97233517@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C413 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98997197@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98997197@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98997197@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C414 'CAP_NP_0402_CC_DISCRETE_0.6MM_2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99333886@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99333886@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99333886@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C415 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99315514@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99315514@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99315514@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C416 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99316363@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99316363@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99316363@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C417 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99315954@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99315954@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99315954@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C418 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99316676@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99316676@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99316676@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C420 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP',
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99315963@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99315963@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99315963@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C421 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP',
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99316372@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99316372@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99316372@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C422 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP',
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99316685@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99316685@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99316685@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C423 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP',
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99315499@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99315499@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99315499@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C501 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98912328@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98912328@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98912328@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C503 'CAP_NP_0402_CC_DISCRETE_0.55M_2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98652613@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98652613@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98652613@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C505 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99247089@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99247089@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99247089@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C506 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234711@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234711@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234711@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C507 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234600@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234600@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234600@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C508 'CAP_NP_0402_CC_DISCRETE_0.59MM_':
+ ROOM='ATLAS-AP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97235004@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97235004@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97235004@fcl_capacitor.\cap_np.normal\(chips)',
+ ROOM='ATLAS-AP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C701 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98860746@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98860746@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98860746@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C702 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98861133@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98861133@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98861133@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C703 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98661159@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98661159@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98661159@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C704 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98861521@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98861521@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98861521@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C705 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236948@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236948@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236948@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C706 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98661832@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98661832@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98661832@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C707 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98661551@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98661551@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98661551@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C708 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98654004@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98654004@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98654004@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C709 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97633874@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97633874@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97633874@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C710 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98653715@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98653715@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98653715@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C711 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98861908@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98861908@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98861908@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C712 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98862293@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98862293@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98862293@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C713 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98654757@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98654757@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98654757@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C714 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97237124@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97237124@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97237124@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C715 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98655686@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98655686@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98655686@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C716 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98862679@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98862679@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98862679@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C717 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98660399@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98660399@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98660399@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C718 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97237172@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97237172@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97237172@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C719 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98660110@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98660110@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98660110@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C720 'CAP_NP_0402_CC_DISCRETE_0.56MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98676620@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98676620@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98676620@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C721 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236489@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236489@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236489@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C722 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98659801@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98659801@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98659801@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C723 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97237036@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97237036@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97237036@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C724 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98659504@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98659504@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98659504@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C725 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98863063@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98863063@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98863063@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C726 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98656746@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98656746@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98656746@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C727 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236842@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236842@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236842@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C728 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98656421@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98656421@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98656421@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C729 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98863445@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98863445@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98863445@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C730 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98863828@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98863828@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98863828@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C731 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98658088@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98658088@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98658088@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C732 'CAP_NP_0402_CC_DISCRETE_0.65MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97516756@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97516756@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97516756@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C733 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98657776@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98657776@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98657776@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C735 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98657495@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98657495@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98657495@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C736 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98655994@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98655994@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98655994@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C737 'CAP_NP_0402_CC_DISCRETE_0.55M_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98709439@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98709439@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98709439@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C738 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98907630@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98907630@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98907630@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C739 'CAP_NP_0402_CC_DISCRETE_0.55M_4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98739734@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98739734@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98739734@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C740 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98891817@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98891817@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98891817@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C741 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98999874@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98999874@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98999874@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C742 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99000315@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99000315@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99000315@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C743 'CAP_NP_0402_CC_DISCRETE_0.55M_4':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99002129@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99002129@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99002129@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C744 'CAP_NP_0402_CC_DISCRETE_0.55M_4':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99003811@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99003811@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99003811@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C745 'CAP_NP_0402_CC_DISCRETE_0.55M_4':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99005059@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99005059@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99005059@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C746 'CAP_NP_0402_CC_DISCRETE_0.55M_4':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99005357@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99005357@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99005357@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C747 'CAP_NP_0402_CC_DISCRETE_0.55M_4':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99005999@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99005999@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99005999@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C801 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98864393@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98864393@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98864393@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C802 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98824714@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98824714@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98824714@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C803 'CAP_NP_0603_CC_DISCRETE_1.016MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98864794@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98864794@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98864794@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C804 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98825505@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98825505@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98825505@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C805 'CAP_NP_0603_CC_DISCRETE_0.9 MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98998994@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98998994@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98998994@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C806 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98663742@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98663742@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98663742@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C807 'CAP_NP_0603_CC_DISCRETE_0.9 MM_':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98998981@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98998981@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98998981@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C808 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98676163@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98676163@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98676163@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C809 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98997349@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98997349@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98997349@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C811 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735196@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735196@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735196@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C812 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735253@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735253@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735253@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C813 'CAP_NP_CC0805_OV_DISCRETE_1.45':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735243@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735243@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735243@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C814 'CAP_NP_CC0805_OV_DISCRETE_1.45':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735267@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735267@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735267@fcl_capacitor.\cap_np.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C815 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735186@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735186@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735186@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C816 'CAP_NP_0402_CC_DISCRETE_0.6MM_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735330@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735330@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735330@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C817 'CAP_NP_0603_CC_DISCRETE_1MM_150':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98735206@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98735206@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98735206@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C818 'CAP_NP_0402_CC_DISCRETE_0.55M_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99130928@FCL_CAPACITOR.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99130928@fcl_capacitor.\cap_np.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins99130928@fcl_capacitor.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D102 'DIODE_SCHTKY_SOD_523_IC_0.7MM_4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97229127@FCL_SEMICONDUCTOR.DIODE_SCHTKY.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97229127@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97229127@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D103 'DIODE_SCHTKY_SOD_523_IC_0.7MM_4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97549788@FCL_SEMICONDUCTOR.DIODE_SCHTKY.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97549788@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins97549788@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D701 'DIODE_SCHTKY_SOD523_IC_0.7MM_48':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98639813@FCL_SEMICONDUCTOR.DIODE_SCHTKY.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98639813@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98639813@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D702 'DIODE_SCHTKY_SOD523_IC_0.7MM_48':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98716228@FCL_SEMICONDUCTOR.DIODE_SCHTKY.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98716228@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98716228@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D705 'DIODE_SCHTKY_SOD523_IC_0.7MM_48':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98738143@FCL_SEMICONDUCTOR.DIODE_SCHTKY.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98738143@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98738143@fcl_semiconductor.\diode_schtky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J301 'CAH11-08163-S107_8P_CON8_FLASH_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98274192@FCL_CONNECTOR.CAH11-08163-S107_8P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98274192@fcl_connector.\cah11-08163-s107_8p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98274192@fcl_connector.\cah11-08163-s107_8p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L701 'IND_IND_4020_DISCRETE_2.2MM_180':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97644083@FCL_INDUCTOR.IND.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97644083@fcl_inductor.\ind.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97644083@fcl_inductor.\ind.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L702 'IND_IND_4020_DISCRETE_2.2MM_180':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97646207@FCL_INDUCTOR.IND.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97646207@fcl_inductor.\ind.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97646207@fcl_inductor.\ind.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L703 'IND_IND_4020_DISCRETE_2.2MM_180':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97645185@FCL_INDUCTOR.IND.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97645185@fcl_inductor.\ind.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97645185@fcl_inductor.\ind.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L801 'BEAD_0_0603_CC_DISCRETE_0.95MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98998506@FCL_INDUCTOR.BEAD_0.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98998506@fcl_inductor.\bead_0.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98998506@fcl_inductor.\bead_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L802 'BEAD_0_0603_CC_DISCRETE_0.95MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98998702@FCL_INDUCTOR.BEAD_0.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98998702@fcl_inductor.\bead_0.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98998702@fcl_inductor.\bead_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P801 'CONN_EDGE_200P_SODIMM_67589_IO_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98789034@FCL_CONNECTOR.CONN_EDGE_200PA.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98789034@fcl_connector.\conn_edge_200pa.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98789034@fcl_connector.\conn_edge_200pa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98788948@FCL_CONNECTOR.CONN_EDGE_200PB.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98788948@fcl_connector.\conn_edge_200pb.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98788948@fcl_connector.\conn_edge_200pb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q501 'NMOSFET_3P_ESD_DIODE_SOT323_3_I':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99455713@FCL_SEMICONDUCTOR.NMOSFET_3P_ESD_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99455713@fcl_semiconductor.\nmosfet_3p_esd_diode.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99455713@fcl_semiconductor.\nmosfet_3p_esd_diode.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q701 'NMOSFET_3P_ESD_DIODE_SOT323_3_I':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99455582@FCL_SEMICONDUCTOR.NMOSFET_3P_ESD_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99455582@fcl_semiconductor.\nmosfet_3p_esd_diode.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99455582@fcl_semiconductor.\nmosfet_3p_esd_diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q702 '2SK3018_SOT323_3_IC_0.9MM_480-7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97533794@FCL_SEMICONDUCTOR.2SK3018.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97533794@fcl_semiconductor.\2sk3018.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97533794@fcl_semiconductor.\2sk3018.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q703 '2SK3018_SOT323_3_IC_0.9MM_480-7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97516889@FCL_SEMICONDUCTOR.2SK3018.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97516889@fcl_semiconductor.\2sk3018.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97516889@fcl_semiconductor.\2sk3018.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q704 '2SK3018_SOT323_3_IC_0.9MM_480-7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98468953@FCL_SEMICONDUCTOR.2SK3018.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98468953@fcl_semiconductor.\2sk3018.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98468953@fcl_semiconductor.\2sk3018.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q705 '2SK3018_SOT323_3_IC_0.9MM_480-7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98468939@FCL_SEMICONDUCTOR.2SK3018.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98468939@fcl_semiconductor.\2sk3018.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98468939@fcl_semiconductor.\2sk3018.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q706 '2SK3018_SOT323_3_IC_0.9MM_480-7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98472249@FCL_SEMICONDUCTOR.2SK3018.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98472249@fcl_semiconductor.\2sk3018.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98472249@fcl_semiconductor.\2sk3018.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q707 '2SK3018_SOT323_3_IC_0.9MM_480-7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98473343@FCL_SEMICONDUCTOR.2SK3018.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98473343@fcl_semiconductor.\2sk3018.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98473343@fcl_semiconductor.\2sk3018.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98674354@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98674354@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins98674354@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R201 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683191@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683191@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98683191@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R202 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683490@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683490@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98683490@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R203 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683503@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683503@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98683503@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R204 'RES_0402_CC_DISCRETE_0.40 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99426692@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99426692@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99426692@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R205 'RES_0402_CC_DISCRETE_0.40 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98678928@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98678928@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98678928@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R206 'RES_0402_CC_DISCRETE_0.45MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99111428@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99111428@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99111428@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R207 'RES_0402_CC_DISCRETE_0.4MM_470-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98679286@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98679286@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98679286@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R208 'RES_0402_CC_DISCRETE_0.4MM_470-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98679603@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98679603@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins98679603@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R209 'RES_0402_CC_DISCRETE_0.40 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99432309@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99432309@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99432309@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R301 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97797624@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97797624@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97797624@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R302 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98680007@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98680007@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98680007@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R303 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683834@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683834@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98683834@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R304 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681069@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681069@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98681069@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R305 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681082@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681082@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98681082@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R306 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681095@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681095@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98681095@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R307 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98680433@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98680433@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98680433@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R308 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98680020@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98680020@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98680020@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R309 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98680669@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98680669@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98680669@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R310 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98680831@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98680831@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98680831@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R311 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681179@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681179@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98681179@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R312 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681194@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681194@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98681194@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R315 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684567@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684567@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98684567@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R317 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683808@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683808@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98683808@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R318 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683821@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683821@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98683821@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R319 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683847@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683847@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98683847@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R320 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683860@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683860@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98683860@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R321 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684374@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684374@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98684374@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R322 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684387@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684387@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98684387@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R323 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98931754@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98931754@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins98931754@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R324 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99131176@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99131176@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins99131176@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R402 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684732@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684732@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98684732@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R403 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684745@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684745@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98684745@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R404 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681605@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681605@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98681605@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R405 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681618@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681618@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98681618@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R406 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99323723@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99323723@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99323723@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R407 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98931657@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98931657@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98931657@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R408 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98931681@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98931681@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins98931681@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R409 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99323762@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99323762@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99323762@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R410 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99323795@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99323795@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99323795@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R411 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99323657@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99323657@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99323657@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R412 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99131126@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99131126@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99131126@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R413 'RES_0402_CC_DISCRETE_0.4MM_47_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99323690@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99323690@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99323690@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R501 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681663@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681663@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98681663@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R503 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234667@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234667@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234667@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R507 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234687@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234687@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234687@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R508 'RES_0402_CC_DISCRETE_0.4MM_47_2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98687781@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98687781@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98687781@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R510 'RES_0402_CC_DISCRETE_0.40 MM__1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99247076@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99247076@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99247076@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R511 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98677451@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98677451@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98677451@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R512 'RES_0402_CC_DISCRETE_0.4MM_470-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98679949@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98679949@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98679949@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R513 'RES_0402_CC_DISCRETE_0.4MM_47_2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99351103@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99351103@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99351103@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R514 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99392582@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99392582@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99392582@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R515 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99171961@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99171961@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99171961@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R516 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99171493@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99171493@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99171493@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R517 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99171773@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99171773@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99171773@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R518 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99172386@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99172386@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99172386@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R519 'RES_0402_CC_DISCRETE_0.40 MM__2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99207763@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99207763@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99207763@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R520 'RES_0402_CC_DISCRETE_0.40 MM__3':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99386986@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99386986@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99386986@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R601 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97620373@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97620373@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97620373@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R602 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624948@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624948@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624948@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R603 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97625112@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97625112@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97625112@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R604 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97625273@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97625273@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97625273@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R605 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97625436@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97625436@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97625436@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R606 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97625601@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97625601@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97625601@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R607 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97625761@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97625761@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97625761@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R608 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97625922@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97625922@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97625922@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R609 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97626669@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97626669@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97626669@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R610 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97626831@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97626831@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97626831@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R611 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97626993@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97626993@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97626993@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R612 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97627153@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97627153@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97627153@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R613 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97627315@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97627315@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97627315@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R614 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97628058@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97628058@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97628058@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R615 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97628219@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97628219@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97628219@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R616 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97628379@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97628379@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97628379@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R617 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98677498@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98677498@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98677498@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R618 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98677511@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98677511@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98677511@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R619 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98677529@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98677529@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98677529@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R620 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98677537@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98677537@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98677537@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R621 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97628979@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97628979@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97628979@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R622 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97629140@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97629140@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97629140@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R623 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97629301@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97629301@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97629301@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R624 'RES_0402_CC_DISCRETE_0.41MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98677555@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98677555@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98677555@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R625 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97631419@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97631419@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97631419@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R626 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97631440@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97631440@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97631440@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R627 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681848@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681848@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98681848@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R628 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681863@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681863@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98681863@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R629 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681878@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681878@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98681878@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R630 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681893@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681893@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98681893@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R631 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97620190@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97620190@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97620190@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R632 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97620540@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97620540@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97620540@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R633 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97620703@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97620703@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97620703@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R634 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97620866@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97620866@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97620866@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R635 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97621174@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97621174@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97621174@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R636 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97621506@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97621506@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97621506@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R637 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97621668@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97621668@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97621668@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R638 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97621830@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97621830@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97621830@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R639 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97622148@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97622148@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97622148@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R640 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97622305@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97622305@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97622305@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R641 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97622461@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97622461@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97622461@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R642 'RES_0402_CC_DISCRETE_0.4 MM_4_1':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97622762@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97622762@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97622762@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R643 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97623088@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97623088@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97623088@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R644 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97623096@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97623096@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97623096@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R645 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97623262@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97623262@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97623262@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R646 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97623270@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97623270@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97623270@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R647 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97623617@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97623617@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97623617@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R648 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97623625@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97623625@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97623625@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R649 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624096@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624096@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624096@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R650 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624104@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624104@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624104@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R651 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624270@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624270@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624270@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R652 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624278@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624278@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624278@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R653 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624445@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624445@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624445@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R654 'RES_0402_CC_DISCRETE_0.4 MM_4_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97624453@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97624453@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins97624453@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R655 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681770@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681770@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98681770@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R656 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98681785@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98681785@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins98681785@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R701 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682606@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682606@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682606@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R702 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682619@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682619@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682619@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R703 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682660@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682660@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682660@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R704 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682675@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682675@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682675@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R705 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682778@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682778@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682778@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R706 'RES_0402_CC_DISCRETE_0.40 MM__4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99194067@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99194067@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99194067@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R707 'RES_0402_CC_DISCRETE_0.40 MM__5':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99194273@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99194273@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99194273@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R708 'RES_0402_CC_DISCRETE_0.40 MM__6':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99194183@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99194183@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99194183@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R709 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682792@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682792@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682792@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R710 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97645762@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97645762@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97645762@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R713 'RES_0402_CC_DISCRETE_0.40 MM__7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98687252@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98687252@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98687252@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R714 'RES_0402_CC_DISCRETE_0.40 MM__2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98686972@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98686972@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98686972@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R715 'RES_0402_CC_DISCRETE_0.40 MM__2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98686694@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98686694@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98686694@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R716 'RES_0402_CC_DISCRETE_0.40 MM__2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684821@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684821@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98684821@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R717 'RES_0402_CC_DISCRETE_0.40 MM__8':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684948@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684948@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98684948@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R718 'RES_0402_CC_DISCRETE_0.40 MM__9':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98685038@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98685038@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98685038@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R719 'RES_0402_CC_DISCRETE_0.40 MM_10':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98685607@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98685607@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98685607@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R720 'RES_0402_CC_DISCRETE_0.40 MM_11':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98981530@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98981530@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98981530@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R721 'RES_0402_CC_DISCRETE_0.40 MM_12':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98981543@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98981543@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98981543@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R722 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97645699@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97645699@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97645699@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R723 'RES_0402_CC_DISCRETE_0.40 MM__7':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98685694@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98685694@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98685694@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R724 'RES_0402_CC_DISCRETE_0.40 MM_10':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98981500@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98981500@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98981500@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R725 'RES_0402_CC_DISCRETE_0.40 MM__2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98686255@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98686255@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98686255@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R726 'RES_0402_CC_DISCRETE_0.45 MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683063@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683063@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98683063@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R727 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98683054@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98683054@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98683054@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R728 'RES_RC0805_OV_DISCRETE_0.7 MM_4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98639564@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98639564@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98639564@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R729 'RES_RC0805_OV_DISCRETE_0.7 MM_4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98639624@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98639624@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98639624@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R730 'RES_RC0805_OV_DISCRETE_0.7 MM_4':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98639444@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98639444@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98639444@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R731 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98682806@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98682806@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98682806@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R732 'RES_RC0603_OV_DISCRETE_0.6MM_47':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98261668@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98261668@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98261668@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R733 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98708785@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98708785@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98708785@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R734 'RES_0402_CC_DISCRETE_0.40 MM_13':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98685493@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98685493@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98685493@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R735 'RES_0402_CC_DISCRETE_0.40 MM__2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98684808@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98684808@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98684808@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R736 'RES_0402_CC_DISCRETE_0.40 MM_13':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98685549@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98685549@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98685549@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R737 'RES_0402_CC_DISCRETE_0.40 MM_13':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98688308@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98688308@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98688308@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R740 'RES_0402_CC_DISCRETE_0.4 MM_470':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98637681@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98637681@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98637681@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R755 'RES_0402_CC_DISCRETE_0.4MM_47_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98738155@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98738155@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98738155@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R757 'RES_0402_CC_DISCRETE_0.4 MM_4_2':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98739725@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98739725@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98739725@fcl_resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R758 'RES_0402_CC_DISCRETE_0.45 MM_47':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98978880@FCL_RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98978880@fcl_resistor.\res.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98978880@fcl_resistor.\res.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW601 'SW_DIP-4_SM_97C04_IC_1.65 MM_51':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99150564@FCL_SWITCH.SW_DIP-4_SM.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99150564@fcl_switch.\sw_dip-4_sm.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins99150564@fcl_switch.\sw_dip-4_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW602 'SW_DIP-2_SW_DIP2_SM_IC_1.65 MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99150728@FCL_SWITCH.SW_DIP-2.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99150728@fcl_switch.\sw_dip-2.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page9_ins99150728@fcl_switch.\sw_dip-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP201 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230276@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230276@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230276@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP202 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230785@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230785@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230785@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP203 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230320@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230320@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230320@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP204 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230101@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230101@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230101@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP205 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230867@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230867@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230867@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP206 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230174@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230174@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230174@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP207 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230214@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230214@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230214@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP208 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230259@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230259@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230259@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP212 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230129@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230129@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230129@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP214 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230191@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230191@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230191@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP216 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97230208@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97230208@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins97230208@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP301 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97231731@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97231731@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97231731@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP303 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97231804@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97231804@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins97231804@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP402 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99131790@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99131790@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99131790@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP403 'TESTLOOP_TPAD_015_IO_0.1MM_211-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99131769@FCL_CONNECTOR.TESTLOOP.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99131769@fcl_connector.\testloop.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99131769@fcl_connector.\testloop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP502 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234754@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234754@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234754@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP503 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234819@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234819@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234819@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP504 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234841@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234841@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234841@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP505 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234868@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234868@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234868@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP506 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234630@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234630@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234630@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP507 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97234737@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97234737@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97234737@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP508 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97618986@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97618986@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins97618986@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP701 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236319@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236319@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236319@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP702 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236873@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236873@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236873@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP703 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97650700@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97650700@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97650700@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP704 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97237342@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97237342@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97237342@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP705 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236720@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236720@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236720@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP706 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97650660@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97650660@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97650660@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP707 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236483@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236483@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236483@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP708 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97236773@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97236773@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97236773@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP709 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97516765@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97516765@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97516765@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP710 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97650688@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97650688@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97650688@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP801 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98013903@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98013903@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98013903@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP802 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98013924@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98013924@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98013924@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP803 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98013929@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98013929@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98013929@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP804 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98013912@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98013912@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98013912@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP805 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98014347@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98014347@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98014347@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP806 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98014355@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98014355@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98014355@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP807 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98014601@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98014601@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98014601@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP808 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98014606@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98014606@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98014606@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP809 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98016202@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98016202@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98016202@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP810 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98016447@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98016447@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98016447@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP811 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98016432@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98016432@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98016432@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP812 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98016437@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98016437@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98016437@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP813 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98016442@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98016442@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98016442@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP814 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98060893@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98060893@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98060893@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP815 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98060885@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98060885@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98060885@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP816 'T POINT R_TESTPOINT_35MIL_IC_0.':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98340159@FCL_MISC.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98340159@fcl_misc.\t point r.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page11_ins98340159@fcl_misc.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U101 'MCIMX6Y2DVM05AA_PBGA_289P_BGA28':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99556192@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PA.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99556192@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pa.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page4_ins99556192@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99559894@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PB.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99559894@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pb.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99559894@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99563096@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PC.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99563096@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pc.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99563096@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99575193@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PD.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99575193@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pd.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99575193@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99575651@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PE.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99575651@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pe.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99575651@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pe.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99575852@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PF.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99575852@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pf.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99575852@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99575995@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PG.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99575995@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pg.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99575995@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99576096@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PH.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99576096@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289ph.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99576096@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289ph.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+SECTION_NUMBER 9
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99576284@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PI.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99576284@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pi.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99576284@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pi.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='I';
+
+SECTION_NUMBER 10
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99576413@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PJ.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99576413@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pj.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99576413@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pj.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='J';
+
+SECTION_NUMBER 11
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99576706@FCL_IC_FREESCALE.MCIMX6Y2DVM05AA_PBGA_289PK.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99576706@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pk.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page7_ins99576706@fcl_ic_freescale.\mcimx6y2dvm05aa_pbga_289pk.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='K';
+
+PART_NAME
+ U201 'MT41J256M16RE_FBGA96_BGA96_0P8_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99420080@FCL_IC5.MT41J256M16RE_FBGA96.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99420080@fcl_ic5.\mt41j256m16re_fbga96.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page5_ins99420080@fcl_ic5.\mt41j256m16re_fbga96.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U301 'MTFC4GMVEA_WFBGA_153P_FBGA153_0':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99515799@FCL_IC5.MTFC4GMVEA_WFBGA_153PA.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99515799@fcl_ic5.\mtfc4gmvea_wfbga_153pa.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins99515799@fcl_ic5.\mtfc4gmvea_wfbga_153pa.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99515999@FCL_IC5.MTFC4GMVEA_WFBGA_153PB.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99515999@fcl_ic5.\mtfc4gmvea_wfbga_153pb.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins99515999@fcl_ic5.\mtfc4gmvea_wfbga_153pb.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U302 'MT29F32G08CBADB_48P_TSOP48_12X2':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99499050@FCL_IC3.MT29F32G08CBADB_48P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99499050@fcl_ic3.\mt29f32g08cbadb_48p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins99499050@fcl_ic3.\mt29f32g08cbadb_48p.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U303 'MT25QL256ABA1EW9_9P_MLP8_1P27_8':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99434349@FCL_IC2.MT25QL256ABA1EW9_9P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99434349@fcl_ic2.\mt25ql256aba1ew9_9p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page6_ins99434349@fcl_ic2.\mt25ql256aba1ew9_9p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U501 'SGM803_SOT23-3P_SOT-23_IC_1.25M':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98912025@FCL_IC.SGM803_SOT23-3P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98912025@fcl_ic.\sgm803_sot23-3p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98912025@fcl_ic.\sgm803_sot23-3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U701 'RT9169_3P_SOT23-3-1P95_IC_1.295':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97944134@FCL_IC2.RT9169_3P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97944134@fcl_ic2.\rt9169_3p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97944134@fcl_ic2.\rt9169_3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U702 'MP2159GJ_8P_TSOT23_8_0P65_2X1_I':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98476667@FCL_IC5.MP2159GJ_8P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98476667@fcl_ic5.\mp2159gj_8p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98476667@fcl_ic5.\mp2159gj_8p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U703 'MP2144GJ_TSOT23_8P_TSOT23_8_0P6':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97943416@FCL_IC2.MP2144GJ_TSOT23_8P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97943416@fcl_ic2.\mp2144gj_tsot23_8p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97943416@fcl_ic2.\mp2144gj_tsot23_8p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U704 'RT9193-33PB_SOT23-5_IC_1.295MM_':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97943994@FCL_IC2.RT9193-33PB.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97943994@fcl_ic2.\rt9193-33pb.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97943994@fcl_ic2.\rt9193-33pb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U705 'RT9169_3P_SOT23-3-1P95_IC_1.2_1':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS97945164@FCL_IC2.RT9169_3P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins97945164@fcl_ic2.\rt9169_3p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins97945164@fcl_ic2.\rt9169_3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U706 'MP2159GJ_8P_TSOT23_8_0P65_2X1_I':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98476168@FCL_IC5.MP2159GJ_8P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98476168@fcl_ic5.\mp2159gj_8p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98476168@fcl_ic5.\mp2159gj_8p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U707 'UM1750S-00_5P_SOT23-5_A_IC_1.25':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98988122@FCL_IC5.UM1750S-00_5P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98988122@fcl_ic5.\um1750s-00_5p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins98988122@fcl_ic5.\um1750s-00_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U708 'UM805_4P_SOT_143_IC_1.22MM_315-':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99055120@FCL_IC5.UM805_4P.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99055120@fcl_ic5.\um805_4p.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page10_ins99055120@fcl_ic5.\um805_4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y501 'XTAL_13_XTLOSC4_3P2X2P5MM_SM_IC':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99789072@FCL_XTAL_OSC.XTAL_13.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99789072@fcl_xtal_osc.\xtal_13.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99789072@fcl_xtal_osc.\xtal_13.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y502 'XTAL_XTAL2-3P2X1P5-SM_IC_0.65MM':;
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS98622281@FCL_XTAL_OSC.XTAL.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins98622281@fcl_xtal_osc.\xtal.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins98622281@fcl_xtal_osc.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y503 'SG8002_XTLOSC4_3P2X2P5MM_SM_IC_':
+ BOM_IGNORE='DNP';
+
+SECTION_NUMBER 1
+ '@SCH-29364_A1.I.MX6ULL_EVK_CM(SCH_1):INS99478127@FCL_XTAL_OSC.SG8002.NORMAL(CHIPS)':
+ C_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):ins99478127@fcl_xtal_osc.\sg8002.normal\(chips)',
+ P_PATH='@\sch-29364_a1\.\i.mx6ull_evk_cm\(sch_1):page8_ins99478127@fcl_xtal_osc.\sg8002.normal\(chips)',
+ BOM_IGNORE='DNP',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

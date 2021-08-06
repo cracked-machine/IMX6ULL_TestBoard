@@ -1,0 +1,205 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\sch-29364_a1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{AGILE_PN}\t{ASSY_OPT}\t{}\t{PRE_APN}\t{Reference}")
+    (BOM_Header "Item\tQuantity\tAgilePN\tASSY_OPT\tFIND#\tPRE_APN\tReference")
+    (BOM_Include_File
+       "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\sch-29364_a1.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (XTAL_13
+      (FullPartName "XTAL_13.Normal")
+      (LibraryName "Q:\ORCADCIS\SYMBOLS\FCL_XTAL_OSC.OLB")
+      (DeviceIndex "0"))
+    (MCIMX6Y2DVM05AA_PBGA_289P
+      (FullPartName "MCIMX6Y2DVM05AA_PBGA_289PK.Normal")
+      (LibraryName "Q:\ORCADCIS\SYMBOLS\FCL_IC_FREESCALE.OLB")
+      (DeviceIndex "10")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sch-29364_a1.dsn")
+      (Path "Design Resources" ".\sch-29364_a1.dsn" "i.mx6ull_evk_cm")
+      (Path "Outputs")
+      (Select "Design Resources" ".\sch-29364_a1.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 534"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1691 104 681")
+        (Scroll "-264 39")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "A-00 COVER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1717 130 707")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "A-01 BLOCK DIAGRAM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1743 156 733")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "A-02 PWR TREE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1769 182 759")
+        (Scroll "110 756")
+        (Zoom "216")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-01 CPU PWR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1795 208 785")
+        (Scroll "331 546")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-02 LvDDR3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 1821 234 811")
+        (Scroll "169 794")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-03 eMMC/NAND/TF/QSPI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1847 260 837")
+        (Scroll "0 730")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-04 CPU PERI1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 286 1873 286 863")
+        (Scroll "64 855")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-05 CPU PERI2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1587 0 577")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-06 BOOT CFG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 603")
+        (Scroll "0 329")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-07 PWR MGR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1639 52 629")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "C-08 SODIMM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1665 78 655")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "X-01 NOTE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1691 104 681")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NXA17136\ONEDRIVE - NXP\!BOARDS\29364\A1\SCH-29364_A1.DSN")
+      (Schematic "i.mx6ull_evk_cm")
+      (Page "X-02 IOMUX")))
+  (MPSSessionName "nxa17136")
+  (ISPCBBASICLICENSE "false"))
